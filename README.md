@@ -12,5 +12,6 @@
 - GrowUp — AI 기반 초보 맘을 위한 육아 앱
 
 ### 완료한 프로젝트
-- [syu-oop-MySNS](https://github.com/wp230/syu-oop-MySNS) — OOP 기반 SNS
-- syu-dbp-기숙사관리프로그램 — DB 기반 기숙사 관리 시스템
+- [my-clipboard](https://github.com/wp230/my-clipboard) — GNOME Shell 클립보드 매니저
+- [SYU-OOP-MySNS](https://github.com/wp230/SYU-OOP-MySNS) — OOP 기반 SNS
+- [SYU-DBP-DMS](https://github.com/wp230/SYU-DBP-DMS) — DB 기반 기숙사 관리 시스템
